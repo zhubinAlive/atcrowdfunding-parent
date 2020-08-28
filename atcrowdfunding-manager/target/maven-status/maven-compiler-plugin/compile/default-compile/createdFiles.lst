@@ -1,0 +1,9 @@
+com\atguigu\atcrowdfunding\mapper\TAdminRoleMapper.class
+com\atguigu\atcrowdfunding\mapper\TPermissionMenuMapper.class
+com\atguigu\atcrowdfunding\config\AppWebSecurityConfig$1.class
+com\atguigu\atcrowdfunding\mapper\TMenuMapper.class
+com\atguigu\atcrowdfunding\mapper\TPermissionMapper.class
+com\atguigu\atcrowdfunding\mapper\TAdminMapper.class
+com\atguigu\atcrowdfunding\mapper\TRoleMapper.class
+com\atguigu\atcrowdfunding\config\AppWebSecurityConfig.class
+com\atguigu\atcrowdfunding\mapper\TRolePermissionMapper.class
